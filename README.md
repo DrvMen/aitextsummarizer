@@ -118,4 +118,3 @@ Contributions are welcome! Please follow these steps:
 - **GitHub:** [DrvMen](https://github.com/DrvMen)
 ```
 
-Replace placeholders like `your-username` and `your-email@example.com` with your actual information, and adapt the file structure if needed for your project setup.
