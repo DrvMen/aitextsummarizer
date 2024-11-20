@@ -17,7 +17,7 @@ An AI-powered web application for summarizing long pieces of text into concise, 
 - **Backend:**
   - Node.js, Express.js
 - **AI Engine:**
-  - OpenAI API (or any other summarization library/model)
+  - HuggingFace API (or any other summarization library/model)
 
 ---
 
@@ -74,13 +74,13 @@ An AI-powered web application for summarizing long pieces of text into concise, 
 ai-text-summarizer/
 ├── public/
 │   ├── css/
-│   │   └── styles.css      # Styling for the frontend
+│   │   └── stylesheeet.css      # Styling for the frontend
 │   ├── js/
 │   │   └── script.js       # Client-side JavaScript
 │   └── index.html          # Main HTML file
 ├── src/
 │   ├── routes/
-│   │   └── summarizer.js   # API route for text summarization
+│   │   └── summarize.js   # API route for text summarization
 │   └── app.js              # Main server file
 ├── .env                    # Environment variables
 ├── package.json            # Project metadata and dependencies
